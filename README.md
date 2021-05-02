@@ -1,6 +1,8 @@
 # Tappy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LOxFyA6d8l0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Promo
+https://www.youtube.com/watch?v=HNfu-DkWos4&t=1s
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/45252226/116806207-7271b300-ab66-11eb-91b3-48f18d86d3ac.png)](https://www.youtube.com/watch?v=HNfu-DkWos4&t=1s)
 
 ## Introduction 
 One core thing that technology has given us is the ability to communicate at any time or place with each other. In large part due to this convenience, more and more conversations are moving into apps and tech and there is less and less for face-to-face conversations. Especially in the midst of a pandemic like COVID-19, it’s necessary for the sake of one’s health to move social interactions online. However, even though the technology has improved, our needs as humans haven’t. Online conversations not only limit the channel of communication to a mostly textual one, but they elevate information over emotion. We’re losing a lot of the human element. And the longer that quarantine goes on, we realize that the more we speak, the less and less we feel connected. At the end of the day, do we spend time with our friends and family because we want to communicate with them, or simply because we remember the comfort we feel when around them?
