@@ -1,0 +1,34 @@
+{
+  "name": "John Park",
+  "id": "jp6969",
+  "friend_list": [
+    ["Mom", "msth1212"],
+    ["Babe", "catheine_12"],
+    ["Dad", "janar_54"],
+    ["Tyler Htet", "t.n.p_shwe"],
+    ["Matt", "hyunee_hyuni"]
+  ],
+  "history": [
+    {
+      "_id": "5eee311633e46e0c0c24a427",
+      "sent_userid": "janar_54",
+      "receive_userid": "jp6969",
+      "time_sent": "2020-06-20T00:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "5eee311633e46e0c0c24a427",
+      "sent_userid": "catheine_12",
+      "receive_userid": "jp6969",
+      "time_sent": "2020-06-21T00:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "5eee311633e46e0c0c24a427",
+      "sent_userid": "hyunee_hyuni",
+      "receive_userid": "jp6969",
+      "time_sent": "2020-06-19T00:00:00.000Z",
+      "__v": 0
+    }
+  ]
+}
